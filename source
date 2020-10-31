@@ -1,5 +1,3 @@
---HUB CREATED BY LegitNoobNoJoke (black man#1337 prev. Smörgås Tårta#4603)
-
 -- Objects
 
 --(0.0055)
@@ -117,6 +115,8 @@ local Script44 = Instance.new("TextButton")
 local sc_Roundify_12px_50 = Instance.new("ImageLabel")
 local Script45 = Instance.new("TextButton")
 local sc_Roundify_12px_51 = Instance.new("ImageLabel")
+local Script46 = Instance.new("TextButton")
+local sc_Roundify_12px_52 = Instance.new("ImageLabel")
 
 -- Properties
 
@@ -2186,3 +2186,39 @@ sc_Roundify_12px_51.Image = "rbxassetid://3570695787"
 sc_Roundify_12px_51.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
 sc_Roundify_12px_51.ScaleType = Enum.ScaleType.Slice
 sc_Roundify_12px_51.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script46.Name = "Script46"
+Script46.Parent = ScrollingFrame
+Script46.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script46.BackgroundTransparency = 1
+Script46.BorderColor3 = Color3.new(0, 0, 0)
+Script46.BorderSizePixel = 0
+Script46.Position = UDim2.new(0.0199999996, 0, 0.2489999992, 0)
+Script46.Size = UDim2.new(0, 464, 0, 33)
+Script46.ZIndex = 10
+Script46.Font = Enum.Font.SciFi
+Script46.Text = "Linify Music"
+Script46.TextColor3 = Color3.new(0, 0, 0)
+Script46.TextSize = 30
+Script46.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shit863/Linify-Music/master/Linify-Main.lua",true))()
+
+end)
+
+sc_Roundify_12px_52.Name = "sc_Roundify_12px"
+sc_Roundify_12px_52.Parent = Script46
+sc_Roundify_12px_52.Active = true
+sc_Roundify_12px_52.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_52.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_52.BackgroundTransparency = 1
+sc_Roundify_12px_52.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_52.Selectable = true
+sc_Roundify_12px_52.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_52.ZIndex = 9
+sc_Roundify_12px_52.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_52.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_52.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_52.SliceCenter = Rect.new(100, 100, 100, 100)
