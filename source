@@ -2372,7 +2372,7 @@ Script50.Position = UDim2.new(0.0199999996, 0, 0.2709999992, 0)
 Script50.Size = UDim2.new(0, 464, 0, 33)
 Script50.ZIndex = 10
 Script50.Font = Enum.Font.SciFi
-Script50.Text = "Flinch Hub"
+Script50.Text = "Flinch Hub (f9 for games)"
 Script50.TextColor3 = Color3.new(0, 0, 0)
 Script50.TextSize = 30
 Script50.MouseButton1Down:connect(function()
@@ -2431,7 +2431,7 @@ Script51.Position = UDim2.new(0.0199999996, 0, 0.2764999992, 0)
 Script51.Size = UDim2.new(0, 464, 0, 33)
 Script51.ZIndex = 10
 Script51.Font = Enum.Font.SciFi
-Script51.Text = "Radium Hub Cracked"
+Script51.Text = "Radium Hub (f9 for games)"
 Script51.TextColor3 = Color3.new(0, 0, 0)
 Script51.TextSize = 30
 Script51.MouseButton1Down:connect(function()
