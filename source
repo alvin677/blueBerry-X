@@ -126,6 +126,8 @@ local Script49 = Instance.new("TextButton")
 local sc_Roundify_12px_55 = Instance.new("ImageLabel")
 local Script50 = Instance.new("TextButton")
 local sc_Roundify_12px_56 = Instance.new("ImageLabel")
+local Script51 = Instance.new("TextButton")
+local sc_Roundify_12px_57 = Instance.new("ImageLabel")
 
 -- Properties
 
@@ -2416,3 +2418,49 @@ sc_Roundify_12px_56.Image = "rbxassetid://3570695787"
 sc_Roundify_12px_56.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
 sc_Roundify_12px_56.ScaleType = Enum.ScaleType.Slice
 sc_Roundify_12px_56.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script51.Name = "Script51"
+Script51.Parent = ScrollingFrame
+Script51.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script51.BackgroundTransparency = 1
+Script51.BorderColor3 = Color3.new(0, 0, 0)
+Script51.BorderSizePixel = 0
+Script51.Position = UDim2.new(0.0199999996, 0, 0.2764999992, 0)
+Script51.Size = UDim2.new(0, 464, 0, 33)
+Script51.ZIndex = 10
+Script51.Font = Enum.Font.SciFi
+Script51.Text = "Radium Hub Cracked"
+Script51.TextColor3 = Color3.new(0, 0, 0)
+Script51.TextSize = 30
+Script51.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/79dKaEsH", true))()
+
+print("ROBEATS")
+print("ARSENAL") 
+print("BLOXBURG")
+print("PRISON LIFE")
+print("NINJA LEGENDS") 
+print("BUILD A BOAT")
+print("SOUND SPACE")
+print("COUNTER BLOX")
+print("BIG PAINTBALL")
+
+end)
+
+sc_Roundify_12px_57.Name = "sc_Roundify_12px"
+sc_Roundify_12px_57.Parent = Script51
+sc_Roundify_12px_57.Active = true
+sc_Roundify_12px_57.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_57.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_57.BackgroundTransparency = 1
+sc_Roundify_12px_57.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_57.Selectable = true
+sc_Roundify_12px_57.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_57.ZIndex = 9
+sc_Roundify_12px_57.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_57.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_57.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_57.SliceCenter = Rect.new(100, 100, 100, 100)
