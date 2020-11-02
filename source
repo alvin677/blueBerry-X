@@ -128,6 +128,10 @@ local Script50 = Instance.new("TextButton")
 local sc_Roundify_12px_56 = Instance.new("ImageLabel")
 local Script51 = Instance.new("TextButton")
 local sc_Roundify_12px_57 = Instance.new("ImageLabel")
+local Script52 = Instance.new("TextButton")
+local sc_Roundify_12px_58 = Instance.new("ImageLabel")
+local Script53 = Instance.new("TextButton")
+local sc_Roundify_12px_59 = Instance.new("ImageLabel")
 
 -- Properties
 
@@ -2464,3 +2468,78 @@ sc_Roundify_12px_57.Image = "rbxassetid://3570695787"
 sc_Roundify_12px_57.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
 sc_Roundify_12px_57.ScaleType = Enum.ScaleType.Slice
 sc_Roundify_12px_57.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script52.Name = "Script52"
+Script52.Parent = ScrollingFrame
+Script52.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script52.BackgroundTransparency = 1
+Script52.BorderColor3 = Color3.new(0, 0, 0)
+Script52.BorderSizePixel = 0
+Script52.Position = UDim2.new(0.0199999996, 0, 0.2819999992, 0)
+Script52.Size = UDim2.new(0, 464, 0, 33)
+Script52.ZIndex = 10
+Script52.Font = Enum.Font.SciFi
+Script52.Text = "Kesh Hub (Shinobi Life 2)"
+Script52.TextColor3 = Color3.new(0, 0, 0)
+Script52.TextSize = 30
+Script52.MouseButton1Down:connect(function()
+
+_G.overwrite = true
+loadstring(game:HttpGet('https://keshhub.com/scripts/games/sl2.lua'))()
+
+end)
+
+sc_Roundify_12px_58.Name = "sc_Roundify_12px"
+sc_Roundify_12px_58.Parent = Script52
+sc_Roundify_12px_58.Active = true
+sc_Roundify_12px_58.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_58.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_58.BackgroundTransparency = 1
+sc_Roundify_12px_58.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_58.Selectable = true
+sc_Roundify_12px_58.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_58.ZIndex = 9
+sc_Roundify_12px_58.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_58.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_58.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_58.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script53.Name = "Script53"
+Script53.Parent = ScrollingFrame
+Script53.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script53.BackgroundTransparency = 1
+Script53.BorderColor3 = Color3.new(0, 0, 0)
+Script53.BorderSizePixel = 0
+Script53.Position = UDim2.new(0.0199999996, 0, 0.2874999992, 0)
+Script53.Size = UDim2.new(0, 464, 0, 33)
+Script53.ZIndex = 10
+Script53.Font = Enum.Font.SciFi
+Script53.Text = "Reav Gui (Shinobi Life 2)"
+Script53.TextColor3 = Color3.new(0, 0, 0)
+Script53.TextSize = 30
+Script53.MouseButton1Down:connect(function()
+
+_G.speed = 750
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reavscripts/sl2_autofarm/main/main.lua", true))()
+
+end)
+
+sc_Roundify_12px_59.Name = "sc_Roundify_12px"
+sc_Roundify_12px_59.Parent = Script53
+sc_Roundify_12px_59.Active = true
+sc_Roundify_12px_59.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_59.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_59.BackgroundTransparency = 1
+sc_Roundify_12px_59.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_59.Selectable = true
+sc_Roundify_12px_59.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_59.ZIndex = 9
+sc_Roundify_12px_59.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_59.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_59.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_59.SliceCenter = Rect.new(100, 100, 100, 100)
