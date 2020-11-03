@@ -132,6 +132,8 @@ local Script52 = Instance.new("TextButton")
 local sc_Roundify_12px_58 = Instance.new("ImageLabel")
 local Script53 = Instance.new("TextButton")
 local sc_Roundify_12px_59 = Instance.new("ImageLabel")
+local Script54 = Instance.new("TextButton")
+local sc_Roundify_12px_60 = Instance.new("ImageLabel")
 
 -- Properties
 
@@ -2543,3 +2545,38 @@ sc_Roundify_12px_59.Image = "rbxassetid://3570695787"
 sc_Roundify_12px_59.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
 sc_Roundify_12px_59.ScaleType = Enum.ScaleType.Slice
 sc_Roundify_12px_59.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+Script54.Name = "Script54"
+Script54.Parent = ScrollingFrame
+Script54.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script54.BackgroundTransparency = 1
+Script54.BorderColor3 = Color3.new(0, 0, 0)
+Script54.BorderSizePixel = 0
+Script54.Position = UDim2.new(0.0199999996, 0, 0.292999999, 0)
+Script54.Size = UDim2.new(0, 464, 0, 33)
+Script54.ZIndex = 10
+Script54.Font = Enum.Font.SciFi
+Script54.Text = "Hat Hub"
+Script54.TextColor3 = Color3.new(0, 0, 0)
+Script54.TextSize = 30
+Script54.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://paste.ee/r/1xR6I", true))()
+
+end)
+
+sc_Roundify_12px_60.Name = "sc_Roundify_12px"
+sc_Roundify_12px_60.Parent = Script54
+sc_Roundify_12px_60.Active = true
+sc_Roundify_12px_60.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_60.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_60.BackgroundTransparency = 1
+sc_Roundify_12px_60.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_60.Selectable = true
+sc_Roundify_12px_60.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_60.ZIndex = 9
+sc_Roundify_12px_60.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_60.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_60.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_60.SliceCenter = Rect.new(100, 100, 100, 100)
