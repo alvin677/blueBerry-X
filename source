@@ -147,6 +147,14 @@ local Script59 = Instance.new("TextButton")
 local sc_Roundify_12px_65 = Instance.new("ImageLabel")
 local Script60 = Instance.new("TextButton")
 local sc_Roundify_12px_66 = Instance.new("ImageLabel")
+local Script61 = Instance.new("TextButton")
+local sc_Roundify_12px_67 = Instance.new("ImageLabel")
+local Script62 = Instance.new("TextButton")
+local sc_Roundify_12px_68 = Instance.new("ImageLabel")
+local Script63 = Instance.new("TextButton")
+local sc_Roundify_12px_69 = Instance.new("ImageLabel")
+local Script64 = Instance.new("TextButton")
+local sc_Roundify_12px_70 = Instance.new("ImageLabel")
 
 -- Properties
 
@@ -2807,3 +2815,167 @@ sc_Roundify_12px_66.Image = "rbxassetid://3570695787"
 sc_Roundify_12px_66.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
 sc_Roundify_12px_66.ScaleType = Enum.ScaleType.Slice
 sc_Roundify_12px_66.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script61.Name = "Script61"
+Script61.Parent = ScrollingFrame
+Script61.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script61.BackgroundTransparency = 1
+Script61.BorderColor3 = Color3.new(0, 0, 0)
+Script61.BorderSizePixel = 0
+Script61.Position = UDim2.new(0.0199999996, 0, 0.331499999, 0)
+Script61.Size = UDim2.new(0, 464, 0, 33)
+Script61.ZIndex = 10
+Script61.Font = Enum.Font.SciFi
+Script61.Text = "Hell Robotics"
+Script61.TextColor3 = Color3.new(0, 0, 0)
+Script61.TextSize = 30
+Script61.MouseButton1Down:connect(function()
+
+_G.CharacterBug = false --Set to true if your uppertorso floats after executing with R15.
+loadstring(game:HttpGet("https://paste.ee/r/WjzBY/0"))()
+
+end)
+
+sc_Roundify_12px_67.Name = "sc_Roundify_12px"
+sc_Roundify_12px_67.Parent = Script61
+sc_Roundify_12px_67.Active = true
+sc_Roundify_12px_67.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_67.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_67.BackgroundTransparency = 1
+sc_Roundify_12px_67.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_67.Selectable = true
+sc_Roundify_12px_67.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_67.ZIndex = 9
+sc_Roundify_12px_67.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_67.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_67.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_67.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script62.Name = "Script62"
+Script62.Parent = ScrollingFrame
+Script62.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script62.BackgroundTransparency = 1
+Script62.BorderColor3 = Color3.new(0, 0, 0)
+Script62.BorderSizePixel = 0
+Script62.Position = UDim2.new(0.0199999996, 0, 0.336999999, 0)
+Script62.Size = UDim2.new(0, 464, 0, 33)
+Script62.ZIndex = 10
+Script62.Font = Enum.Font.SciFi
+Script62.Text = "Fe Hub"
+Script62.TextColor3 = Color3.new(0, 0, 0)
+Script62.TextSize = 30
+Script62.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/RbQDmVuR",true))()
+
+end)
+
+sc_Roundify_12px_68.Name = "sc_Roundify_12px"
+sc_Roundify_12px_68.Parent = Script62
+sc_Roundify_12px_68.Active = true
+sc_Roundify_12px_68.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_68.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_68.BackgroundTransparency = 1
+sc_Roundify_12px_68.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_68.Selectable = true
+sc_Roundify_12px_68.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_68.ZIndex = 9
+sc_Roundify_12px_68.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_68.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_68.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_68.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+Script63.Name = "Script63"
+Script63.Parent = ScrollingFrame
+Script63.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script63.BackgroundTransparency = 1
+Script63.BorderColor3 = Color3.new(0, 0, 0)
+Script63.BorderSizePixel = 0
+Script63.Position = UDim2.new(0.0199999996, 0, 0.342499999, 0)
+Script63.Size = UDim2.new(0, 464, 0, 33)
+Script63.ZIndex = 10
+Script63.Font = Enum.Font.SciFi
+Script63.Text = "Xenon"
+Script63.TextColor3 = Color3.new(0, 0, 0)
+Script63.TextSize = 30
+Script63.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet('https://gist.githubusercontent.com/thefireboy138/f83c02a25961f38291b5b56639430619/raw/df848de82f602020cb83c9652e4aec6bc1ce1ea2/Xenon%2520hub%2520v2',true))()
+
+end)
+
+sc_Roundify_12px_69.Name = "sc_Roundify_12px"
+sc_Roundify_12px_69.Parent = Script63
+sc_Roundify_12px_69.Active = true
+sc_Roundify_12px_69.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_69.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_69.BackgroundTransparency = 1
+sc_Roundify_12px_69.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_69.Selectable = true
+sc_Roundify_12px_69.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_69.ZIndex = 9
+sc_Roundify_12px_69.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_69.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_69.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_69.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script64.Name = "Script64"
+Script64.Parent = ScrollingFrame
+Script64.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script64.BackgroundTransparency = 1
+Script64.BorderColor3 = Color3.new(0, 0, 0)
+Script64.BorderSizePixel = 0
+Script64.Position = UDim2.new(0.0199999996, 0, 0.347999999, 0)
+Script64.Size = UDim2.new(0, 464, 0, 33)
+Script64.ZIndex = 10
+Script64.Font = Enum.Font.SciFi
+Script64.Text = "Fe Btools (F9 for key)"
+Script64.TextColor3 = Color3.new(0, 0, 0)
+Script64.TextSize = 30
+Script64.MouseButton1Down:connect(function()
+
+print("Fe btools key (2 space between each character): s  p  a  c  e  b  a  r")
+_G.CheckCustomBuilds = true
+_G.DefaulBuilds = true
+_G.Barrier = true
+_G.bridge2 = true
+_G.bridge4 = true
+_G.ladder = true
+_G.Nazi = true
+_G.penis = true
+_G.platform = true
+_G.stairs = true
+_G.BigPP = true
+
+_G.RGB = false
+_G.RGBswitchDelay = .4
+
+_G.RejoinWaitDelayForReExecute = 5  -- tell how long the script will wait before rejoining (for synapse script queing)
+
+loadstring(game:HttpGet("https://ssbtools.netlify.app/assets/storage/LOADSTRING_SCRIPT2.txt"))()
+
+--the key: s  p  a  c  e  b  a  r
+
+end)
+
+sc_Roundify_12px_70.Name = "sc_Roundify_12px"
+sc_Roundify_12px_70.Parent = Script64
+sc_Roundify_12px_70.Active = true
+sc_Roundify_12px_70.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_70.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_70.BackgroundTransparency = 1
+sc_Roundify_12px_70.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_70.Selectable = true
+sc_Roundify_12px_70.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_70.ZIndex = 9
+sc_Roundify_12px_70.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_70.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_70.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_70.SliceCenter = Rect.new(100, 100, 100, 100)
