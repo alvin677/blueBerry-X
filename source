@@ -134,6 +134,19 @@ local Script53 = Instance.new("TextButton")
 local sc_Roundify_12px_59 = Instance.new("ImageLabel")
 local Script54 = Instance.new("TextButton")
 local sc_Roundify_12px_60 = Instance.new("ImageLabel")
+--
+local Script55 = Instance.new("TextButton")
+local sc_Roundify_12px_61 = Instance.new("ImageLabel")
+local Script56 = Instance.new("TextButton")
+local sc_Roundify_12px_62 = Instance.new("ImageLabel")
+local Script57 = Instance.new("TextButton")
+local sc_Roundify_12px_63 = Instance.new("ImageLabel")
+local Script58 = Instance.new("TextButton")
+local sc_Roundify_12px_64 = Instance.new("ImageLabel")
+local Script59 = Instance.new("TextButton")
+local sc_Roundify_12px_65 = Instance.new("ImageLabel")
+local Script60 = Instance.new("TextButton")
+local sc_Roundify_12px_66 = Instance.new("ImageLabel")
 
 -- Properties
 
@@ -2580,3 +2593,217 @@ sc_Roundify_12px_60.Image = "rbxassetid://3570695787"
 sc_Roundify_12px_60.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
 sc_Roundify_12px_60.ScaleType = Enum.ScaleType.Slice
 sc_Roundify_12px_60.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+Script55.Name = "Script55"
+Script55.Parent = ScrollingFrame
+Script55.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script55.BackgroundTransparency = 1
+Script55.BorderColor3 = Color3.new(0, 0, 0)
+Script55.BorderSizePixel = 0
+Script55.Position = UDim2.new(0.0199999996, 0, 0.298499999, 0)
+Script55.Size = UDim2.new(0, 464, 0, 33)
+Script55.ZIndex = 10
+Script55.Font = Enum.Font.SciFi
+Script55.Text = "Turtle Spy"
+Script55.TextColor3 = Color3.new(0, 0, 0)
+Script55.TextSize = 30
+Script55.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU", true))()
+
+end)
+
+sc_Roundify_12px_61.Name = "sc_Roundify_12px"
+sc_Roundify_12px_61.Parent = Script55
+sc_Roundify_12px_61.Active = true
+sc_Roundify_12px_61.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_61.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_61.BackgroundTransparency = 1
+sc_Roundify_12px_61.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_61.Selectable = true
+sc_Roundify_12px_61.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_61.ZIndex = 9
+sc_Roundify_12px_61.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_61.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_61.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_61.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script56.Name = "Script56"
+Script56.Parent = ScrollingFrame
+Script56.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script56.BackgroundTransparency = 1
+Script56.BorderColor3 = Color3.new(0, 0, 0)
+Script56.BorderSizePixel = 0
+Script56.Position = UDim2.new(0.0199999996, 0, 0.303999999, 0)
+Script56.Size = UDim2.new(0, 464, 0, 33)
+Script56.ZIndex = 10
+Script56.Font = Enum.Font.SciFi
+Script56.Text = "Translator"
+Script56.TextColor3 = Color3.new(0, 0, 0)
+Script56.TextSize = 30
+Script56.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://paste.ee/r/EpRBr", true))()
+
+end)
+
+sc_Roundify_12px_62.Name = "sc_Roundify_12px"
+sc_Roundify_12px_62.Parent = Script56
+sc_Roundify_12px_62.Active = true
+sc_Roundify_12px_62.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_62.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_62.BackgroundTransparency = 1
+sc_Roundify_12px_62.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_62.Selectable = true
+sc_Roundify_12px_62.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_62.ZIndex = 9
+sc_Roundify_12px_62.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_62.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_62.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_62.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+Script57.Name = "Script57"
+Script57.Parent = ScrollingFrame
+Script57.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script57.BackgroundTransparency = 1
+Script57.BorderColor3 = Color3.new(0, 0, 0)
+Script57.BorderSizePixel = 0
+Script57.Position = UDim2.new(0.0199999996, 0, 0.309499999, 0)
+Script57.Size = UDim2.new(0, 464, 0, 33)
+Script57.ZIndex = 10
+Script57.Font = Enum.Font.SciFi
+Script57.Text = "Ancient Hub"
+Script57.TextColor3 = Color3.new(0, 0, 0)
+Script57.TextSize = 30
+Script57.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://paste.ee/r/Faq7V", true))()
+
+end)
+
+sc_Roundify_12px_63.Name = "sc_Roundify_12px"
+sc_Roundify_12px_63.Parent = Script57
+sc_Roundify_12px_63.Active = true
+sc_Roundify_12px_63.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_63.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_63.BackgroundTransparency = 1
+sc_Roundify_12px_63.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_63.Selectable = true
+sc_Roundify_12px_63.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_63.ZIndex = 9
+sc_Roundify_12px_63.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_63.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_63.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_63.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script58.Name = "Script58"
+Script58.Parent = ScrollingFrame
+Script58.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script58.BackgroundTransparency = 1
+Script58.BorderColor3 = Color3.new(0, 0, 0)
+Script58.BorderSizePixel = 0
+Script58.Position = UDim2.new(0.0199999996, 0, 0.314999999, 0)
+Script58.Size = UDim2.new(0, 464, 0, 33)
+Script58.ZIndex = 10
+Script58.Font = Enum.Font.SciFi
+Script58.Text = "Ocean V1.1"
+Script58.TextColor3 = Color3.new(0, 0, 0)
+Script58.TextSize = 30
+Script58.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/8cw7FMq4", true))()
+
+end)
+
+sc_Roundify_12px_64.Name = "sc_Roundify_12px"
+sc_Roundify_12px_64.Parent = Script58
+sc_Roundify_12px_64.Active = true
+sc_Roundify_12px_64.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_64.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_64.BackgroundTransparency = 1
+sc_Roundify_12px_64.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_64.Selectable = true
+sc_Roundify_12px_64.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_64.ZIndex = 9
+sc_Roundify_12px_64.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_64.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_64.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_64.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script59.Name = "Script59"
+Script59.Parent = ScrollingFrame
+Script59.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script59.BackgroundTransparency = 1
+Script59.BorderColor3 = Color3.new(0, 0, 0)
+Script59.BorderSizePixel = 0
+Script59.Position = UDim2.new(0.0199999996, 0, 0.320499999, 0)
+Script59.Size = UDim2.new(0, 464, 0, 33)
+Script59.ZIndex = 10
+Script59.Font = Enum.Font.SciFi
+Script59.Text = "Fe Tank"
+Script59.TextColor3 = Color3.new(0, 0, 0)
+Script59.TextSize = 30
+Script59.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Ufdj5J6j"))();
+
+end)
+
+sc_Roundify_12px_65.Name = "sc_Roundify_12px"
+sc_Roundify_12px_65.Parent = Script59
+sc_Roundify_12px_65.Active = true
+sc_Roundify_12px_65.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_65.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_65.BackgroundTransparency = 1
+sc_Roundify_12px_65.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_65.Selectable = true
+sc_Roundify_12px_65.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_65.ZIndex = 9
+sc_Roundify_12px_65.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_65.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_65.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_65.SliceCenter = Rect.new(100, 100, 100, 100)
+
+
+
+Script60.Name = "Script60"
+Script60.Parent = ScrollingFrame
+Script60.BackgroundColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+Script60.BackgroundTransparency = 1
+Script60.BorderColor3 = Color3.new(0, 0, 0)
+Script60.BorderSizePixel = 0
+Script60.Position = UDim2.new(0.0199999996, 0, 0.325999999, 0)
+Script60.Size = UDim2.new(0, 464, 0, 33)
+Script60.ZIndex = 10
+Script60.Font = Enum.Font.SciFi
+Script60.Text = "Overflow V3"
+Script60.TextColor3 = Color3.new(0, 0, 0)
+Script60.TextSize = 30
+Script60.MouseButton1Down:connect(function()
+
+loadstring(game:HttpGet("https://paste.ee/r/xjj2e"))();
+
+end)
+
+sc_Roundify_12px_66.Name = "sc_Roundify_12px"
+sc_Roundify_12px_66.Parent = Script60
+sc_Roundify_12px_66.Active = true
+sc_Roundify_12px_66.AnchorPoint = Vector2.new(0.5, 0.5)
+sc_Roundify_12px_66.BackgroundColor3 = Color3.new(1, 1, 1)
+sc_Roundify_12px_66.BackgroundTransparency = 1
+sc_Roundify_12px_66.Position = UDim2.new(0.5, 0, 0.5, 0)
+sc_Roundify_12px_66.Selectable = true
+sc_Roundify_12px_66.Size = UDim2.new(1, 0, 1, 0)
+sc_Roundify_12px_66.ZIndex = 9
+sc_Roundify_12px_66.Image = "rbxassetid://3570695787"
+sc_Roundify_12px_66.ImageColor3 = Color3.new(0.443137, 0.443137, 0.443137)
+sc_Roundify_12px_66.ScaleType = Enum.ScaleType.Slice
+sc_Roundify_12px_66.SliceCenter = Rect.new(100, 100, 100, 100)
