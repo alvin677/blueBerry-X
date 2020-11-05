@@ -808,12 +808,12 @@ Script9.Position = UDim2.new(0.0199999996, 0, 0.0454999992, 0)
 Script9.Size = UDim2.new(0, 464, 0, 33)
 Script9.ZIndex = 10
 Script9.Font = Enum.Font.SciFi
-Script9.Text = "JootHub_V2"
+Script9.Text = "Spicy_Bagel_Hub"
 Script9.TextColor3 = Color3.new(0, 0, 0)
 Script9.TextSize = 30
 Script9.MouseButton1Down:connect(function()
 
-loadstring(game:HttpGet(('https://paste.ee/r/zmOMp'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers/Spicy-Bagel/main/SpicyBagelHub.lua"))()
 
 end)
 
@@ -1281,7 +1281,7 @@ Script22.TextColor3 = Color3.new(0, 0, 0)
 Script22.TextSize = 30
 Script22.MouseButton1Down:connect(function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua"))();
 
 end)
 
