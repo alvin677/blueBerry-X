@@ -1583,7 +1583,7 @@ Script29.TextColor3 = Color3.new(0, 0, 0)
 Script29.TextSize = 30
 Script29.MouseButton1Down:connect(function()
 
-loadstring(game:HttpGet(("https://pastebin.com/raw/yCrBkPaY"), true))()
+loadstring(game:HttpGet("http://darkhub.xyz/remote-script.lua", true))()
 
 end)
 
